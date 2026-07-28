@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "date": "2026-07-28",
+    "topic_theme": "The Rise of AI in Everyday Productivity",
+    "word_count_estimate": 1850,
+    "estimated_completion_minutes": 45
+  },
+
+  "reading": {
+    "title": "How AI Is Quietly Reshaping the Way We Work",
+    "source_url": "https://www.bbc.com/future/article/20260727-ai-productivity-workplace-trends",
+    "difficulty_level": "B2",
+    "content_paragraphs": [
+      "Artificial intelligence has moved beyond the realm of science fiction and into the daily routines of millions of knowledge workers. From drafting emails to summarizing meeting notes, AI-powered tools are gradually becoming invisible but indispensable assistants. What is striking is not their novelty, but how quickly they have been normalized — many users no longer think of AI as a separate category of software; it is simply part of how things get done.",
+      "A recent survey conducted across the United States and Europe found that nearly 62 percent of professionals who use AI at work reported a noticeable improvement in task efficiency. However, the same study also highlighted a lingering concern: over-reliance on AI-generated content may erode critical thinking skills over time. Employers are now grappling with how to integrate AI without diminishing human judgment.",
+      "Education experts argue that the key lies in a shift from 'using AI' to 'collaborating with AI.' In practice, this means treating AI outputs as a first draft — a starting point for human refinement rather than a final product. This mindset preserves the cognitive engagement that is essential for deep learning and professional growth."
+    ],
+    "key_vocabulary": [
+      {
+        "word": "indispensable",
+        "meaning": "absolutely necessary; essential",
+        "example_sentence": "In the modern workplace, a reliable internet connection has become an indispensable resource."
+      },
+      {
+        "word": "erode",
+        "meaning": "gradually wear away or diminish",
+        "example_sentence": "Critics worry that automated translation tools may erode students' motivation to learn a foreign language."
+      },
+      {
+        "word": "grapple with",
+        "meaning": "struggle to deal with or understand something difficult",
+        "example_sentence": "Many companies are still grappling with how to regulate employee use of generative AI."
+      },
+      {
+        "word": "refinement",
+        "meaning": "the process of making small improvements to something",
+        "example_sentence": "The final draft underwent several rounds of refinement before submission."
+      },
+      {
+        "word": "cognitive engagement",
+        "meaning": "active mental involvement in a task or learning process",
+        "example_sentence": "Gamification in education aims to increase students' cognitive engagement and retention."
+      }
+    ],
+    "comprehension_questions": [
+      {
+        "question": "According to the article, what is 'striking' about AI tools in the workplace?",
+        "answer": "What is striking is not their novelty, but how quickly they have been normalized — many users no longer think of AI as separate software."
+      },
+      {
+        "question": "What percentage of professionals reported improved task efficiency from using AI at work?",
+        "answer": "Nearly 62 percent of professionals who use AI at work reported a noticeable improvement in task efficiency."
+      },
+      {
+        "question": "What concern does the survey raise about over-reliance on AI?",
+        "answer": "The concern is that over-reliance on AI-generated content may erode critical thinking skills over time."
+      },
+      {
+        "question": "What mindset do education experts recommend for working with AI?",
+        "answer": "They recommend treating AI outputs as a first draft — a starting point for human refinement rather than a final product."
+      }
+    ]
+  },
+
+  "listening": {
+    "audio_url": "https://public-domain-audio.example.com/ai-productivity-20260728.mp3",
+    "transcript": "Welcome to today's listening exercise. Artificial intelligence is changing the way we approach our daily tasks. Instead of replacing humans, the best AI tools act as collaborators — they handle repetitive work so we can focus on creativity and decision-making. However, experts warn that we must stay actively involved in the process. If we simply accept whatever the machine produces, we risk losing our own ability to think critically. The goal is not automation for its own sake, but augmentation — using technology to amplify human potential. So next time you use an AI tool, ask yourself: am I directing it, or is it directing me?",
+    "gap_fill_exercise": [
+      {
+        "sentence_with_blanks": "Instead of replacing humans, the best AI tools act as ______.",
+        "answers_array": ["collaborators"]
+      },
+      {
+        "sentence_with_blanks": "Experts warn that we must stay actively ______ in the process.",
+        "answers_array": ["involved"]
+      },
+      {
+        "sentence_with_blanks": "If we simply accept whatever the machine produces, we risk losing our ability to think ______.",
+        "answers_array": ["critically"]
+      },
+      {
+        "sentence_with_blanks": "The goal is not automation for its own sake, but ______.",
+        "answers_array": ["augmentation"]
+      },
+      {
+        "sentence_with_blanks": "Technology should be used to amplify human ______.",
+        "answers_array": ["potential"]
+      }
+    ],
+    "dictation_sentences": [
+      "Artificial intelligence is changing the way we approach our daily tasks.",
+      "The best AI tools act as collaborators rather than replacements.",
+      "They handle repetitive work so we can focus on creativity and decision-making.",
+      "We risk losing our own ability to think critically if we blindly accept AI output.",
+      "Next time you use an AI tool, ask yourself: am I directing it, or is it directing me?"
+    ]
+  },
+
+  "speaking": {
+    "passage_for_shadowing": "Artificial intelligence is changing the way we work. /pˈweɪ/ / Instead of replacing us, /pˈriːˈpleɪsɪŋ/ / it augments our abilities. /pˈɔːɡˈments/ / The key is to stay in control. /pˈkənˈtrəʊl/ / When we collaborate with AI, /pˈkəˈlæbəreɪt/ / we achieve more than either could alone. /pˈəˈləʊn/ / This partnership requires intentional effort. /pˈɪnˈtenʃənəl/ / Do not let convenience /pˈkənˈviːniəns/ / replace curiosity. /pˈkjʊəriˈɒsɪti/",
+    "dialogue_template": [
+      {
+        "speaker": "Alice",
+        "line": "I've been using an AI assistant to draft my weekly reports, and it saves me about two hours every Friday."
+      },
+      {
+        "speaker": "Ben",
+        "line": "That sounds efficient, but don't you worry the writing might sound a bit generic?"
+      },
+      {
+        "speaker": "Alice",
+        "line": "I used to, but now I treat the AI draft as a skeleton and add my own examples and tone afterward."
+      },
+      {
+        "speaker": "Ben",
+        "line": "So you're using it more like a brainstorming partner than a ghostwriter. That makes sense."
+      },
+      {
+        "speaker": "Alice",
+        "line": "Exactly. The trick is knowing when to let AI handle the heavy lifting and when to step in yourself."
+      }
+    ],
+    "speaking_challenge": "Record yourself answering this question in 60 seconds: 'Do you think AI will eventually replace human teachers and translators? Why or why not? Use at least two vocabulary words from today's Reading section in your answer.'"
+  },
+
+  "writing": {
+    "showcase_sentences": [
+      {
+        "sentence": "Not only does AI save time on repetitive tasks, but it also frees up mental energy for creative problem-solving.",
+        "structure_explanation": "Inversion with 'Not only... but also' — when 'Not only' begins a sentence, the subject and auxiliary verb are inverted (does AI save → not does it save).",
+        "usage_notes": "Use this structure in formal writing or essays to emphasize two connected benefits. Common in IELTS/TOEFL task 2 and business reports."
+      },
+      {
+        "sentence": "The more we rely on AI-generated content without verification, the more our critical thinking skills may deteriorate.",
+        "structure_explanation": "Comparative correlative: 'The more X, the more Y' — shows a proportional cause-and-effect relationship between two actions.",
+        "usage_notes": "Effective for discussing trends, cause-effect arguments, and policy analysis. Avoid overuse — one per paragraph is enough."
+      },
+      {
+        "sentence": "Had organizations invested more in AI literacy training earlier, the transition would have been far smoother.",
+        "structure_explanation": "Third conditional with inversion: 'Had + subject + past participle' replaces 'If + subject + had' for a more formal tone.",
+        "usage_notes": "Use in analytical writing to discuss missed opportunities or hypothetical past scenarios. Common in opinion pieces and editorials."
+      }
+    ],
+    "translation_exercise": [
+      {
+        "chinese_sentence": "人工智能不是要取代人类，而是要通过协作来增强我们的能力。",
+        "reference_english": "Artificial intelligence is not about replacing humans, but about augmenting our capabilities through collaboration."
+      },
+      {
+        "chinese_sentence": "很多人担心AI会让传统教育变得过时，但事实可能恰恰相反。",
+        "reference_english": "Many people worry that AI will make traditional education obsolete, but the opposite may actually be true."
+      },
+      {
+        "chinese_sentence": "在信息爆炸的时代，批判性思维比以往任何时候都更加重要。",
+        "reference_english": "In an age of information overload, critical thinking is more important than ever before."
+      },
+      {
+        "chinese_sentence": "如果我们能把AI当作工具而非替代品，就能在职场中保持竞争优势。",
+        "reference_english": "If we can treat AI as a tool rather than a replacement, we can maintain a competitive edge in the workplace."
+      }
+    ],
+    "free_writing_prompt": "Write a 150-to-200-word paragraph expressing your opinion on the following statement: 'Schools and universities should teach students how to use AI tools effectively, just as they teach reading and writing.' Do you agree or disagree? Support your argument with specific reasons and examples."
+  },
+
+  "vocabulary": {
+    "word_list": [
+      {
+        "word": "augment",
+        "part_of_speech": "verb",
+        "definition": "to make something greater or larger by adding to it",
+        "example": "Wearable technology can augment human sensory capabilities in remarkable ways.",
+        "collocations": ["augment reality", "augment income", "augment capabilities", "augment the team"]
+      },
+      {
+        "word": "paradigm",
+        "part_of_speech": "noun",
+        "definition": "a typical example or pattern of something; a model or worldview",
+        "example": "The shift from desktop computing to mobile-first design represents a major paradigm change in the tech industry.",
+        "collocations": ["paradigm shift", "new paradigm", "dominant paradigm", "social paradigm"]
+      },
+      {
+        "word": "mitigate",
+        "part_of_speech": "verb",
+        "definition": "to make less severe or serious",
+        "example": "Companies are implementing new data policies to mitigate the risk of privacy breaches.",
+        "collocations": ["mitigate risk", "mitigate damage", "mitigate impact", "mitigate concerns"]
+      },
+      {
+        "word": "fluctuate",
+        "part_of_speech": "verb",
+        "definition": "to rise and fall irregularly in number or amount",
+        "example": "The demand for AI specialists continues to fluctuate as the market matures and new specializations emerge.",
+        "collocations": ["fluctuate wildly", "fluctuate in price", "fluctuate over time", "fluctuate depending on"]
+      },
+      {
+        "word": "profound",
+        "part_of_speech": "adjective",
+        "definition": "very great or intense; having deep meaning or significance",
+        "example": "The invention of the printing press had a profound impact on the spread of knowledge across civilizations.",
+        "collocations": ["profound impact", "profound effect", "profound difference", "profound insight"]
+      },
+      {
+        "word": "integrate",
+        "part_of_speech": "verb",
+        "definition": "to combine one thing with another so that they become a whole",
+        "example": "The new platform integrates calendar management, task tracking, and communication into a single workspace.",
+        "collocations": ["integrate into", "integrate with", "fully integrate", "seamlessly integrate"]
+      },
+      {
+        "word": "redundant",
+        "part_of_speech": "adjective",
+        "definition": "no longer needed or useful; superfluous",
+        "example": "As automation spreads, some administrative roles may become redundant, while new technical roles emerge.",
+        "collocations": ["become redundant", "make redundant", "render redundant", "largely redundant"]
+      }
+    ],
+    "root_affix_notes": "Many tech-related English words share Latin roots. 'Augment' shares the root 'aug-' (to increase) with 'author' and 'auction'. 'Mitigate' comes from 'mitis' (mild, soft) + 'agere' (to do). 'Profound' combines 'pro-' (forward) + 'fundus' (bottom), literally meaning 'deep'. Recognizing these roots can help you guess meanings of unfamiliar vocabulary in academic articles.",
+    "anki_csv_filename": "vocab_ai_productivity_20260728.csv"
+  }
+}
