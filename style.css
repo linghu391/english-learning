@@ -29,6 +29,30 @@ body.loaded #app { opacity: 1; transition: opacity 0.3s ease; }
   position: relative;
 }
 
+/* Desktop background — frosted glass ambient */
+body {
+  background: #0a0a0f;
+}
+@media (min-width: 768px) {
+  body {
+    background: radial-gradient(ellipse at 20% 0%, rgba(99,102,241,0.08), transparent 50%),
+                radial-gradient(ellipse at 80% 100%, rgba(139,92,246,0.06), transparent 50%),
+                #0a0a0f;
+  }
+  #app {
+    max-width: 820px;
+    margin: 24px auto;
+    height: calc(100vh - 48px);
+    height: calc(100dvh - 48px);
+    border: 1px solid #1e1e24;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 8px 40px rgba(0,0,0,0.5), 0 0 80px rgba(99,102,241,0.04);
+  }
+  #header { border-radius: 20px 20px 0 0; }
+  #tab-bar { border-radius: 0 0 20px 20px; }
+}
+
 /* ===== Loading & Error ===== */
 #loading-screen, #error-screen {
   display: flex;
@@ -360,3 +384,87 @@ body.loaded #app { opacity: 1; transition: opacity 0.3s ease; }
   z-index: 200; animation: slideDown 0.3s ease;
 }
 @keyframes slideDown { from { transform: translateY(-100%); } to { transform: translateY(0); } }
+
+/* ===== Desktop Responsive Enhancements ===== */
+@media (min-width: 768px) {
+  /* Header — more spacious */
+  #header { padding: 16px 24px 10px; }
+  .header-date { font-size: 18px; }
+  .header-emoji { font-size: 22px; }
+  .header-topic { font-size: 13px; }
+
+  /* Content — wider padding, larger text */
+  #content { padding: 16px 24px 12px; }
+  .card { padding: 18px 20px; margin-bottom: 12px; border-radius: 14px; }
+  .card-title { font-size: 16px; }
+  .card-sub { font-size: 13px; line-height: 1.6; }
+  .paragraph { font-size: 15px; line-height: 1.85; }
+
+  /* Section titles */
+  .section-title { font-size: 14px; margin: 20px 0 10px; }
+
+  /* Reading comprehension */
+  .comprehension-q { font-size: 14px; }
+  .answer-content { font-size: 14px; padding: 12px 16px; }
+
+  /* Vocabulary chips */
+  .vocab-chip { font-size: 13px; padding: 5px 12px; }
+  .vocab-popup-word { font-size: 20px; }
+  .vocab-popup-meaning { font-size: 14px; }
+  .vocab-popup-example { font-size: 14px; }
+
+  /* Vocabulary cards — 2-column grid on wide screens */
+  @media (min-width: 900px) {
+    #tab-vocabulary .card.vocab-card,
+    #tab-reading .card:has(.vocab-chip) {
+      break-inside: avoid;
+    }
+  }
+
+  /* Vocab card text */
+  .vocab-word { font-size: 17px; }
+  .vocab-def { font-size: 14px; }
+  .vocab-example { font-size: 13px; }
+
+  /* Audio player */
+  .audio-player { padding: 16px; }
+  .audio-play-btn { width: 48px; height: 48px; font-size: 18px; }
+  .audio-label { font-size: 14px; }
+  .audio-status { font-size: 12px; }
+
+  /* Gap fill */
+  .gap-fill-text { font-size: 14px; }
+  .gap-blank { min-width: 100px; font-size: 13px; }
+
+  /* Dictation */
+  .dictation-text { font-size: 14px; }
+
+  /* Speaking */
+  .shadowing-text { font-size: 15px; line-height: 2.2; }
+  .dialogue-line { font-size: 14px; }
+  .dialogue-item.alice { margin-right: 40px; }
+  .dialogue-item.ben { margin-left: 40px; }
+
+  /* Writing */
+  .showcase-sentence { font-size: 15px; padding: 12px 16px; }
+  .showcase-structure { font-size: 13px; }
+  .showcase-usage { font-size: 13px; }
+  .translation-cn { font-size: 14px; }
+  .translation-input { font-size: 14px; padding: 12px 16px; }
+  .translation-ref { font-size: 13px; }
+
+  /* Root notes */
+  .root-note { font-size: 13px; padding: 16px; }
+
+  /* Tab bar — slightly larger */
+  #tab-bar { padding: 6px 12px 8px; }
+  .tab-btn .tab-icon { font-size: 20px; }
+  .tab-btn .tab-label { font-size: 10px; }
+  .tab-btn { padding: 8px 0; }
+
+  /* Answer toggle */
+  .answer-toggle { font-size: 13px; padding: 10px 16px; }
+
+  /* Buttons */
+  .btn-primary { font-size: 15px; padding: 14px 32px; }
+}
