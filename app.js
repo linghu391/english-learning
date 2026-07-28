@@ -489,6 +489,7 @@
   function initApp() {
     loading.style.display = 'none';
     mainApp.style.display = 'flex';
+    mainApp.style.flexDirection = 'column';
 
     // Meta
     if (data.meta) {
