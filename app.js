@@ -486,8 +486,21 @@
   // ===== Load Data =====
   async function loadData() {
     try {
-      const res = await fetch('data.json?_=' + Date.now());
-      if (!res.ok) throw new Error('HTTP ' + res.status);
+      // Map day-of-week to file suffix: Sun(0)=sun, Mon(1)=mon, ...
+      const dayNames = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'];
+      const today = new Date();
+      const daySuffix = dayNames[today.getDay()];
+      const fileName = 'data-' + daySuffix + '.json';
+
+      let res;
+      try {
+        res = await fetch(fileName + '?_=' + Date.now());
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+      } catch (e) {
+        // Fallback to data.json if day-specific file not found
+        res = await fetch('data.json?_=' + Date.now());
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+      }
       data = await res.json();
       initApp();
     } catch (err) {

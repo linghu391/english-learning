@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "date": "2026-08-06",
+    "topic_theme": "Plastic-Eating Bacteria: A Biological Solution to the Plastic Crisis",
+    "word_count_estimate": 1750,
+    "estimated_completion_minutes": 45
+  },
+
+  "reading": {
+    "title": "Plastic-Eating Bacteria: Nature's Answer to a Man-Made Crisis",
+    "source_url": "https://www.nature.com/articles/plastic-degrading-microbes-review-2026",
+    "difficulty_level": "B2-C1",
+    "content_paragraphs": [
+      "In 2016, a team of Japanese researchers made a remarkable discovery that would reshape the field of environmental microbiology. While screening soil samples collected from a plastics recycling facility in Osaka, they isolated a previously unknown bacterium, later named Ideonella sakaiensis. What made this microorganism extraordinary was its ability to degrade polyethylene terephthalate (PET) — one of the most common plastics in the world, used in everything from water bottles to food packaging. The bacterium achieves this feat by secreting a specialized enzyme that breaks the chemical bonds holding the plastic polymer together, effectively converting PET into its constituent building blocks within a matter of days.",
+      "The discovery of this naturally occurring enzyme sparked a wave of excitement in the scientific community, but researchers quickly realized that the wild-type enzyme was too slow and too heat-sensitive for industrial use. To overcome these limitations, scientists began to engineer enhanced variants through a process called directed evolution. By introducing targeted mutations into the enzyme's genetic code and screening the resulting variants for improved activity, teams in France and the United States succeeded in creating an optimized version that degrades PET far more efficiently than the original. In some cases, these engineered enzymes can process plastic up to a thousand times faster, offering a tantalizing glimpse of what a circular plastic economy might look like.",
+      "Despite these breakthroughs, significant hurdles remain before plastic-eating bacteria can be deployed at scale. PET represents only a fraction of the plastic waste clogging the world's oceans and landfills; other polymers, such as polyethylene and polystyrene, are far more resistant to biological degradation. Moreover, scaling up from laboratory conditions to industrial facilities requires enormous investment and meticulous engineering. Skeptics also caution that bioremediation should not be treated as a license to continue producing plastic indiscriminately. Rather, the most responsible path forward is to harness these biological tools as part of a broader strategy that prioritizes reduction, reuse, and systemic redesign of how we manufacture and consume materials."
+    ],
+    "key_vocabulary": [
+      {
+        "word": "degrade",
+        "meaning": "to break down or decompose a substance into simpler components",
+        "example_sentence": "The bacterium can degrade PET plastic into its basic chemical building blocks within days."
+      },
+      {
+        "word": "isolate",
+        "meaning": "to separate and identify a specific microorganism or substance from a mixture",
+        "example_sentence": "Researchers isolated the bacterium from soil samples collected at a recycling facility."
+      },
+      {
+        "word": "enzyme",
+        "meaning": "a biological molecule that acts as a catalyst to speed up chemical reactions",
+        "example_sentence": "The engineered enzyme can process plastic up to a thousand times faster than the original."
+      },
+      {
+        "word": "optimize",
+        "meaning": "to make something as effective or functional as possible",
+        "example_sentence": "Scientists succeeded in creating an optimized version of the enzyme that works far more efficiently."
+      },
+      {
+        "word": "breakthrough",
+        "meaning": "an important discovery or development that overcomes a significant obstacle",
+        "example_sentence": "Despite these breakthroughs, significant hurdles remain before the technology can be deployed at scale."
+      }
+    ],
+    "comprehension_questions": [
+      {
+        "question": "Where and how was Ideonella sakaiensis discovered?",
+        "answer": "It was discovered by a team of Japanese researchers who were screening soil samples collected from a plastics recycling facility in Osaka in 2016."
+      },
+      {
+        "question": "What is directed evolution, and how did scientists use it to improve the enzyme?",
+        "answer": "Directed evolution is a process in which scientists introduce targeted mutations into an enzyme's genetic code and screen the resulting variants for improved activity. Using this method, teams in France and the United States created an optimized enzyme that degrades PET up to a thousand times faster than the original."
+      },
+      {
+        "question": "Why can plastic-eating bacteria not simply be deployed in the open environment to clean up pollution?",
+        "answer": "PET represents only a fraction of plastic waste, and other polymers like polyethylene and polystyrene are far more resistant to biological degradation. Additionally, scaling up from laboratory to industrial conditions requires enormous investment and meticulous engineering."
+      },
+      {
+        "question": "What caution do skeptics raise about bioremediation, and what alternative do they propose?",
+        "answer": "Skeptics caution that bioremediation should not be treated as a license to continue producing plastic indiscriminately. They propose harnessing these biological tools as part of a broader strategy that prioritizes reduction, reuse, and systemic redesign of how we manufacture and consume materials."
+      }
+    ]
+  },
+
+  "listening": {
+    "audio_url": "",
+    "transcript": "Welcome to today's listening practice on bioremediation. In laboratories around the world, researchers are racing to transform microscopic organisms into powerful allies in the fight against plastic pollution. The process typically begins by collecting environmental samples — soil, seawater, or even the guts of waxworms — and cultivating the microbes they contain. Scientists then isolate individual strains and expose them to specific plastics to see which organisms can break them down. Once a promising candidate is identified, the real work begins. Researchers analyze the microbe's genome to locate the genes responsible for producing degrading enzymes. These genes can then be cloned into bacteria such as E. coli, which are easier to grow in large quantities. The goal is to optimize enzyme yield and stability so that the proteins can function under industrial conditions. One major challenge is that most enzymes discovered so far only work on PET, leaving harder plastics untouched. Teams are now using artificial intelligence to predict which protein structures might degrade other polymers. While a complete biological solution remains years away, each experiment brings us closer to turning an environmental crisis into a manageable problem.",
+    "gap_fill_exercise": [
+      {
+        "sentence_with_blanks": "Researchers are racing to transform microscopic organisms into powerful ______ in the fight against plastic pollution.",
+        "answers_array": ["allies"]
+      },
+      {
+        "sentence_with_blanks": "The process typically begins by collecting environmental ______ — soil, seawater, or even the guts of waxworms.",
+        "answers_array": ["samples"]
+      },
+      {
+        "sentence_with_blanks": "Scientists then ______ individual strains and expose them to specific plastics.",
+        "answers_array": ["isolate"]
+      },
+      {
+        "sentence_with_blanks": "Researchers analyze the microbe's ______ to locate the genes responsible for producing degrading enzymes.",
+        "answers_array": ["genome"]
+      },
+      {
+        "sentence_with_blanks": "These genes can then be cloned into bacteria such as E. coli, which are easier to grow in large ______.",
+        "answers_array": ["quantities"]
+      },
+      {
+        "sentence_with_blanks": "The goal is to ______ enzyme yield and stability so that the proteins can function under industrial conditions.",
+        "answers_array": ["optimize"]
+      },
+      {
+        "sentence_with_blanks": "Teams are now using artificial intelligence to ______ which protein structures might degrade other polymers.",
+        "answers_array": ["predict"]
+      }
+    ],
+    "dictation_sentences": [
+      "Researchers are racing to transform microscopic organisms into powerful allies in the fight against plastic pollution.",
+      "The process typically begins by collecting environmental samples — soil, seawater, or even the guts of waxworms — and cultivating the microbes they contain.",
+      "Scientists then isolate individual strains and expose them to specific plastics to see which organisms can break them down.",
+      "Once a promising candidate is identified, the real work begins.",
+      "Researchers analyze the microbe's genome to locate the genes responsible for producing degrading enzymes.",
+      "These genes can then be cloned into bacteria such as E. coli, which are easier to grow in large quantities.",
+      "The goal is to optimize enzyme yield and stability so that the proteins can function under industrial conditions.",
+      "While a complete biological solution remains years away, each experiment brings us closer to turning an environmental crisis into a manageable problem."
+    ]
+  },
+
+  "speaking": {
+    "passage_for_shadowing": "Microbes may save our planet. / Nature finds a way to break down plastic. / Enzymes are biological scissors. / Scientists engineer them to work faster. / The lab is where discovery begins. / Scale is the real challenge. / Reduce first, then reuse and recycle. / Biology offers us genuine hope.",
+    "dialogue_template": [
+      {
+        "speaker": "Marcus",
+        "line": "Dr. Chen, I read that scientists found bacteria that can actually eat plastic. Is that for real, or is it just hype?"
+      },
+      {
+        "speaker": "Dr. Chen",
+        "line": "It is very real. A bacterium called Ideonella sakaiensis was discovered in Japan. It produces an enzyme that breaks down PET plastic into its constituent building blocks."
+      },
+      {
+        "speaker": "Marcus",
+        "line": "So could we just dump these bacteria into the ocean and let them clean up all the plastic waste?"
+      },
+      {
+        "speaker": "Dr. Chen",
+        "line": "Not quite. The enzymes work best under controlled conditions — specific temperature and pH. Deploying them in open environments is far more complicated and has not been tested."
+      },
+      {
+        "speaker": "Marcus",
+        "line": "That makes sense. So the lab results are promising, but we are still a long way from a real-world solution."
+      }
+    ],
+    "speaking_challenge": "Record yourself answering this question in 60 seconds: 'If plastic-eating bacteria could be safely deployed in nature, would that solve the plastic pollution crisis, or would it just encourage people to keep producing more waste? Use at least two vocabulary words from today's Reading section in your answer.'"
+  },
+
+  "writing": {
+    "showcase_sentences": [
+      {
+        "sentence": "Not until researchers isolated Ideonella sakaiensis did the scientific community realize that nature had already begun adapting to plastic pollution.",
+        "structure_explanation": "Inversion with 'Not until': when a negative adverbial phrase begins the sentence, the auxiliary verb ('did') is placed before the subject ('the scientific community'), creating emphasis on the timing of the discovery.",
+        "usage_notes": "Use this structure in academic and analytical writing to highlight a pivotal moment or turning point. It draws the reader's attention to the condition that triggered a significant realization."
+      },
+      {
+        "sentence": "So promising are these engineered enzymes that several startups have already begun building pilot facilities to test them at industrial scale.",
+        "structure_explanation": "Inversion with 'So + adjective': when 'So' precedes an adjective at the start of a sentence, the verb 'are' is inverted with the subject 'these engineered enzymes.' The clause 'that' introduces the result.",
+        "usage_notes": "Effective in persuasive and journalistic writing to emphasize the degree or intensity of something. It creates a dramatic, confident tone that engages the reader."
+      },
+      {
+        "sentence": "Had the Japanese team not screened soil from a recycling facility, this remarkable bacterium might have remained undiscovered for decades.",
+        "structure_explanation": "Inverted third conditional: 'Had + subject + not + past participle' replaces 'If the subject had not + past participle.' The result clause uses 'might have + past participle' to express a hypothetical past consequence.",
+        "usage_notes": "Use in argumentative or reflective writing to emphasize how close something came to not happening. Common in academic writing when discussing scientific discoveries and historical contingencies."
+      }
+    ],
+    "translation_exercise": [
+      {
+        "chinese_sentence": "研究人员从大阪的一个回收设施中分离出了一种能够分解PET塑料的细菌。",
+        "reference_english": "Researchers isolated a bacterium from a recycling facility in Osaka that can degrade PET plastic."
+      },
+      {
+        "chinese_sentence": "通过定向进化技术，科学家们成功优化了这种酶，使其降解速度提高了上千倍。",
+        "reference_english": "Through directed evolution, scientists successfully optimized the enzyme, increasing its degradation speed by up to a thousand times."
+      },
+      {
+        "chinese_sentence": "尽管取得了这些突破，将实验室成果扩大到工业规模仍然面临巨大挑战。",
+        "reference_english": "Despite these breakthroughs, scaling up from laboratory results to industrial scale still faces enormous challenges."
+      },
+      {
+        "chinese_sentence": "我们不能把生物修复当作继续大量生产塑料的借口，而应将其作为更广泛减塑策略的一部分。",
+        "reference_english": "We should not treat bioremediation as an excuse to continue mass-producing plastic, but rather as part of a broader plastic-reduction strategy."
+      }
+    ],
+    "free_writing_prompt": "Write a 150-to-200-word paragraph responding to the following statement: 'Plastic-eating bacteria are a technological silver bullet that will eventually solve the plastic pollution crisis, so we do not need to change our consumption habits.' Do you agree or disagree? Support your argument with specific reasons and, where possible, examples from today's reading and listening materials."
+  },
+
+  "vocabulary": {
+    "word_list": [
+      {
+        "word": "degrade",
+        "part_of_speech": "verb",
+        "definition": "to break down or decompose a substance into simpler chemical components",
+        "example": "The bacterium can degrade PET plastic into its basic building blocks within a matter of days.",
+        "collocations": ["degrade plastic", "degrade into", "biological degradation", "resistant to degradation"]
+      },
+      {
+        "word": "isolate",
+        "part_of_speech": "verb",
+        "definition": "to separate a specific microorganism, substance, or cell from a mixture for study or use",
+        "example": "Scientists isolated individual strains of bacteria and exposed them to specific plastics.",
+        "collocations": ["isolate from", "isolate a strain", "isolate a gene", "successfully isolate"]
+      },
+      {
+        "word": "enzyme",
+        "part_of_speech": "noun",
+        "definition": "a biological molecule, typically a protein, that acts as a catalyst to accelerate chemical reactions in living organisms",
+        "example": "The engineered enzyme can process plastic up to a thousand times faster than the original.",
+        "collocations": ["specialized enzyme", "engineer an enzyme", "enzyme yield", "enzyme activity"]
+      },
+      {
+        "word": "optimize",
+        "part_of_speech": "verb",
+        "definition": "to make something as effective, functional, or efficient as possible",
+        "example": "The goal is to optimize enzyme yield and stability so that the proteins can function under industrial conditions.",
+        "collocations": ["optimize performance", "optimize yield", "optimize conditions", "highly optimized"]
+      },
+      {
+        "word": "breakthrough",
+        "part_of_speech": "noun",
+        "definition": "a significant discovery or development that overcomes a major obstacle",
+        "example": "Despite these breakthroughs, significant hurdles remain before the technology can be deployed at scale.",
+        "collocations": ["scientific breakthrough", "major breakthrough", "achieve a breakthrough", "breakthrough in research"]
+      },
+      {
+        "word": "harness",
+        "part_of_speech": "verb",
+        "definition": "to utilize and control a natural resource or phenomenon for a practical purpose",
+        "example": "The most responsible path forward is to harness these biological tools as part of a broader strategy.",
+        "collocations": ["harness energy", "harness potential", "harness technology", "harness natural processes"]
+      },
+      {
+        "word": "constituent",
+        "part_of_speech": "adjective",
+        "definition": "being a component or essential part of a whole; forming a constituent element",
+        "example": "The bacterium converts PET into its constituent building blocks within a matter of days.",
+        "collocations": ["constituent parts", "constituent building blocks", "constituent elements", "constituent components"]
+      }
+    ],
+    "root_affix_notes": "The word 'degrade' combines the Latin prefix 'de-' (down) with 'gradus' (step), literally meaning 'to step down' — hence to break down into lower components. 'Isolate' derives from Italian 'isolato,' rooted in the Latin 'insula' (island), conveying the idea of setting something apart like an island. The term 'enzyme' comes from Greek 'en' (in) + 'zyme' (leaven or ferment), reflecting its role in fermentation processes first observed in yeast. 'Optimize' stems from Latin 'optimus' (best), meaning to make something as good as it can be. Understanding these etymological roots helps you decode unfamiliar scientific vocabulary in academic texts.",
+    "anki_csv_filename": "vocab_academic_science_20260806.csv"
+  }
+}

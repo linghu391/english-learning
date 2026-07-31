@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "date": "2026-08-08",
+    "topic_theme": "Light Reading: The Unexpected Joy of Getting Lost in a New City",
+    "word_count_estimate": 1900,
+    "estimated_completion_minutes": 45
+  },
+
+  "reading": {
+    "title": "The Unexpected Joy of Getting Lost in a New City",
+    "source_url": "https://www.nytimes.com/travel/2026/aug/getting-lost-new-city",
+    "difficulty_level": "B2",
+    "content_paragraphs": [
+      "I have a confession to make: I am hopelessly bad with directions. In my own city, I rely on my phone's GPS to navigate streets I have walked a hundred times. So when I arrived in Lisbon last spring with a dead battery and a crumpled paper map I could barely read, panic set in almost immediately. I stood at a fork in the road, both cobblestone lanes climbing steeply between sun-bleached buildings, and realized I had no idea which way led to my hostel. For a moment, I felt the familiar knot of anxiety that comes with being a stranger in an unfamiliar place. And then, almost without thinking, I chose the narrower lane — the one that looked like it went nowhere in particular — and started walking.",
+      "That wrong turn turned out to be the best decision I made all trip. The lane deposited me in a tiny square I have never been able to find on any map since. An old woman was selling roasted chestnuts from a charcoal brazier, and two stray cats were sleeping in a patch of sunlight beneath a lemon tree. I sat on a stone bench and ate chestnuts and watched the afternoon unfold. A boy kicked a football against a wall. Someone practiced a trumpet, badly, in an upper window. It was the kind of scene that no guidebook could have directed me toward, and it was precisely because I was lost that I found it. The city, it seemed, had a way of rewarding those willing to wander.",
+      "There is a difference, I think, between being a tourist and being a traveler, and it has nothing to do with how far you fly or how many countries you stamp into a passport. A tourist arrives with a checklist and leaves having photographed it; a traveler arrives with no particular plan and leaves with stories. Getting lost, once the thing I feared most in a new city, has become something I quietly seek out. I still use maps — I am not a romantic fool — but I also build in hours with no destination at all, trusting that a city will reveal itself more honestly to someone who is not in a hurry to be somewhere else. The joy, I have learned, is not in arriving. It is in the wandering."
+    ],
+    "key_vocabulary": [
+      {
+        "word": "cobblestone",
+        "meaning": "a naturally rounded stone, or one cut into shape, used for paving streets",
+        "example_sentence": "The narrow cobblestone streets of the old town were slippery after the rain."
+      },
+      {
+        "word": "crumpled",
+        "meaning": "pressed or crushed into creases and wrinkles",
+        "example_sentence": "He pulled a crumpled receipt from the bottom of his backpack."
+      },
+      {
+        "word": "unfold",
+        "meaning": "to develop, progress, or be revealed gradually over time",
+        "example_sentence": "We sat on the balcony and watched the evening unfold over the harbor."
+      },
+      {
+        "word": "checklist",
+        "meaning": "a list of items to be checked or completed, often used to ensure thoroughness",
+        "example_sentence": "She treated every museum like a checklist, rushing through to tick off each room."
+      },
+      {
+        "word": "reveal",
+        "meaning": "to make something known or visible that was previously hidden",
+        "example_sentence": "The fog lifted to reveal a stunning view of the valley below."
+      }
+    ],
+    "comprehension_questions": [
+      {
+        "question": "Why did the author feel panicked upon arriving in Lisbon?",
+        "answer": "The author's phone battery was dead and they had only a crumpled paper map they could barely read, leaving them unsure which way to go to reach their hostel."
+      },
+      {
+        "question": "What did the author discover after taking the narrower lane?",
+        "answer": "The author found a tiny square where an old woman was selling roasted chestnuts, stray cats were sleeping in the sunlight, a boy was kicking a football, and someone was practicing a trumpet — a scene no guidebook could have directed them to."
+      },
+      {
+        "question": "According to the author, what is the difference between a tourist and a traveler?",
+        "answer": "A tourist arrives with a checklist and leaves having photographed it, while a traveler arrives with no particular plan and leaves with stories."
+      },
+      {
+        "question": "How has the author's attitude toward getting lost changed over time?",
+        "answer": "Getting lost was once the thing the author feared most in a new city, but it has become something they quietly seek out, building in hours with no destination to let the city reveal itself more honestly."
+      }
+    ]
+  },
+
+  "listening": {
+    "audio_url": "",
+    "transcript": "I had been traveling solo through Vietnam for two weeks when I had my most memorable meal. I was in Hoi An, wandering through the old town as dusk settled over the river. The lanterns were just flickering to life, casting the narrow streets in a warm amber glow. I had meant to meet a friend at a riverside restaurant, but I had misread the address and ended up in a residential alley with no restaurants in sight. Just as I was about to turn back, an elderly woman appeared in a doorway and gestured for me to come inside. Her kitchen was tiny — a single burner, a wooden table, a shelf of clay pots — but she served me the most extraordinary bowl of noodles I have ever tasted. We could not speak each other's language, but she laughed at my clumsy attempts to use chopsticks, and I left feeling as though I had been entrusted with a small, quiet secret. That meal cost less than a cup of coffee back home, and I still think about it years later.",
+    "gap_fill_exercise": [
+      {
+        "sentence_with_blanks": "I had been traveling solo through Vietnam for two weeks when I had my most memorable ______.",
+        "answers_array": ["meal"]
+      },
+      {
+        "sentence_with_blanks": "The lanterns were just ______ to life, casting the narrow streets in a warm amber glow.",
+        "answers_array": ["flickering"]
+      },
+      {
+        "sentence_with_blanks": "I had meant to meet a friend at a ______ restaurant, but I had misread the address.",
+        "answers_array": ["riverside"]
+      },
+      {
+        "sentence_with_blanks": "I had misread the address and ended up in a residential ______ with no restaurants in sight.",
+        "answers_array": ["alley"]
+      },
+      {
+        "sentence_with_blanks": "Just as I was about to turn back, an elderly woman appeared in a ______ and gestured for me to come inside.",
+        "answers_array": ["doorway"]
+      },
+      {
+        "sentence_with_blanks": "She laughed at my ______ attempts to use chopsticks.",
+        "answers_array": ["clumsy"]
+      },
+      {
+        "sentence_with_blanks": "I left feeling as though I had been ______ with a small, quiet secret.",
+        "answers_array": ["entrusted"]
+      }
+    ],
+    "dictation_sentences": [
+      "I had been traveling solo through Vietnam for two weeks when I had my most memorable meal.",
+      "I was in Hoi An, wandering through the old town as dusk settled over the river.",
+      "The lanterns were just flickering to life, casting the narrow streets in a warm amber glow.",
+      "I had meant to meet a friend at a riverside restaurant, but I had misread the address and ended up in a residential alley with no restaurants in sight.",
+      "Just as I was about to turn back, an elderly woman appeared in a doorway and gestured for me to come inside.",
+      "Her kitchen was tiny, but she served me the most extraordinary bowl of noodles I have ever tasted.",
+      "We could not speak each other's language, but she laughed at my clumsy attempts to use chopsticks.",
+      "That meal cost less than a cup of coffee back home, and I still think about it years later."
+    ]
+  },
+
+  "speaking": {
+    "passage_for_shadowing": "I got lost in Lisbon last spring. / It was the best thing that happened to me. / I found a square on no map. / An old woman sold roasted chestnuts. / Two cats slept in the sunlight. / I sat and watched the afternoon. / A boy kicked a football against a wall. / Getting lost is how you truly travel.",
+    "dialogue_template": [
+      {
+        "speaker": "Maya",
+        "line": "Do you ever just wander without a map when you travel?"
+      },
+      {
+        "speaker": "Tom",
+        "line": "Honestly, no. I'm terrified of getting lost, so I plan everything down to the hour."
+      },
+      {
+        "speaker": "Maya",
+        "line": "That's exactly what I used to do. But last year my phone died in Lisbon, and I ended up in this tiny square I'd never have found otherwise."
+      },
+      {
+        "speaker": "Tom",
+        "line": "And it was worth it? I feel like I'd just end up stressed and frustrated."
+      },
+      {
+        "speaker": "Maya",
+        "line": "At first, yes. But the thing about getting lost is that the city starts talking to you — you notice things you'd never notice if you were just following a blue dot on a screen."
+      }
+    ],
+    "speaking_challenge": "Record yourself answering this question in 60 seconds: 'Describe a time when you got lost while traveling or exploring somewhere new. What happened, and did the experience change how you approach travel? Use at least two vocabulary words from today's Reading or Listening sections in your answer.'"
+  },
+
+  "writing": {
+    "showcase_sentences": [
+      {
+        "sentence": "No sooner had I stepped off the train than I realized I had left my map behind.",
+        "structure_explanation": "Negative adverbial inversion with 'No sooner... than': when 'No sooner' begins a sentence, the subject and auxiliary verb are inverted (had I stepped → I had stepped). This structure emphasizes that one event happened immediately after another.",
+        "usage_notes": "Use this in narrative writing to create dramatic effect and show rapid sequence. Common in storytelling and personal essays."
+      },
+      {
+        "sentence": "Had I not taken that wrong turn, I would never have discovered the tiny square that became my favorite memory of Lisbon.",
+        "structure_explanation": "Inverted third conditional: 'Had I not + past participle' replaces 'If I had not + past participle.' This formal inversion describes how a different past action would have led to a different outcome.",
+        "usage_notes": "Effective in reflective writing when imagining how things might have gone differently. Adds a literary, thoughtful tone to travel narratives and personal essays."
+      },
+      {
+        "sentence": "So absorbed was I in the scene before me that I forgot, for a moment, that I was lost.",
+        "structure_explanation": "Inversion with 'So + adjective': when 'So' + adjective begins a sentence for emphasis, the verb 'be' is inverted before the subject (was I → I was). This structure highlights the intensity of a feeling or state.",
+        "usage_notes": "Use in descriptive and narrative writing to emphasize how deeply someone was affected by a moment. Creates a more literary, immersive quality."
+      }
+    ],
+    "translation_exercise": [
+      {
+        "chinese_sentence": "我迷路的那次，反而是整趟旅行中最难忘的经历。",
+        "reference_english": "The time I got lost turned out to be the most memorable experience of the entire trip."
+      },
+      {
+        "chinese_sentence": "如果不走出舒适区，你永远不会发现那些藏在巷子深处的小店。",
+        "reference_english": "Unless you step out of your comfort zone, you will never discover the little shops hidden deep in the alleys."
+      },
+      {
+        "chinese_sentence": "她用法语结结巴巴地点了菜，服务员却笑着鼓励她继续说下去。",
+        "reference_english": "She ordered her meal in halting French, but the waiter smiled and encouraged her to keep going."
+      },
+      {
+        "chinese_sentence": "与其赶着打卡所有景点，我更愿意漫无目的地走走停停。",
+        "reference_english": "Rather than rushing to check off every attraction, I would rather wander aimlessly, stopping whenever something catches my eye."
+      }
+    ],
+    "free_writing_prompt": "Write a 150-to-200-word personal essay about a time you found yourself somewhere unexpected — whether while traveling abroad or simply exploring your own neighborhood. Describe what you saw, how you felt, and what you discovered about the place or about yourself. Try to use at least three vocabulary words from today's lesson, and include at least one inverted sentence structure from the Writing section."
+  },
+
+  "vocabulary": {
+    "word_list": [
+      {
+        "word": "cobblestone",
+        "part_of_speech": "noun",
+        "definition": "a naturally rounded stone, or one cut into shape, used for paving streets",
+        "example": "The cobblestone streets of the old town were beautiful but hard to walk on in heels.",
+        "collocations": ["cobblestone street", "cobblestone lane", "cobblestone path", "cobblestone square"]
+      },
+      {
+        "word": "unfold",
+        "part_of_speech": "verb",
+        "definition": "to develop, progress, or be revealed gradually over time",
+        "example": "We sat on the hotel balcony and watched the evening unfold over the harbor.",
+        "collocations": ["watch something unfold", "events unfold", "story unfolds", "drama unfolds"]
+      },
+      {
+        "word": "reveal",
+        "part_of_speech": "verb",
+        "definition": "to make something known or visible that was previously hidden",
+        "example": "The fog slowly lifted to reveal a stunning view of the valley below.",
+        "collocations": ["reveal itself", "reveal a secret", "reveal the truth", "reveal a view"]
+      },
+      {
+        "word": "flickering",
+        "part_of_speech": "adjective",
+        "definition": "shining unsteadily, with a light that goes on and off quickly",
+        "example": "The flickering lanterns along the river created a magical atmosphere.",
+        "collocations": ["flickering light", "flickering flame", "flickering candle", "flickering screen"]
+      },
+      {
+        "word": "clumsy",
+        "part_of_speech": "adjective",
+        "definition": "awkward or ungraceful in movement or action",
+        "example": "My clumsy attempts to use chopsticks made the old woman laugh.",
+        "collocations": ["clumsy attempt", "clumsy hands", "feel clumsy", "clumsy movement"]
+      },
+      {
+        "word": "entrust",
+        "part_of_speech": "verb",
+        "definition": "to give someone the responsibility of looking after something or doing something",
+        "example": "I felt as though I had been entrusted with a small, quiet secret of the city.",
+        "collocations": ["entrust with", "entrust someone with", "entrust to", "be entrusted with"]
+      },
+      {
+        "word": "extraordinary",
+        "part_of_speech": "adjective",
+        "definition": "very unusual, remarkable, or surprising",
+        "example": "She served me the most extraordinary bowl of noodles I have ever tasted.",
+        "collocations": ["extraordinary experience", "extraordinary meal", "truly extraordinary", "extraordinary talent"]
+      }
+    ],
+    "root_affix_notes": "The prefix 'extra-' means 'beyond' or 'outside of' — 'extraordinary' combines 'extra-' (beyond) + 'ordinis' (order/rank), literally 'beyond the ordinary.' The word 'entrust' pairs the prefix 'en-' (to put into) with 'trust,' meaning 'to place something into someone's care.' 'Reveal' comes from 're-' (back) + 'velum' (veil), literally 'to pull back the veil' — the same Latin root gives us 'veil,' 'reveal,' and 'revelation.' Understanding these word-building patterns helps you decode unfamiliar vocabulary you encounter while reading and traveling.",
+    "anki_csv_filename": "vocab_light_reading_20260808.csv"
+  }
+}

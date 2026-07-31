@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "date": "2026-08-04",
+    "topic_theme": "Culture & Creativity: The Revival of Handmade Craft in a Digital Age",
+    "word_count_estimate": 1950,
+    "estimated_completion_minutes": 45
+  },
+
+  "reading": {
+    "title": "The Revival of Handmade Craft in a Digital Age",
+    "source_url": "https://www.bbc.com/culture/2026/aug/handmade-craft-revival",
+    "difficulty_level": "B2-C1",
+    "content_paragraphs": [
+      "In an era dominated by mass-produced goods and instant digital gratification, a surprising resurgence of handmade craft has captured the imagination of younger generations. Across urban centers, studios dedicated to pottery, woodworking, and textile-making are reporting waiting lists that stretch for months. For many millennials and Gen Z practitioners, the appeal lies not in the finished product but in the process itself — the tactile satisfaction of shaping clay on a wheel or weaving threads into cloth. This artisanal revival represents, in part, a rebellion against a culture that has commodified nearly every aspect of daily life, stripping objects of their origin and meaning.",
+      "Psychologists suggest that the renewed fascination with craftsmanship stems from a deeper human need for tangible outcomes in an increasingly abstract world. When a software developer spends hours refining code that exists only on a screen, the absence of a physical, tactile result can foster a quiet sense of futility. Crafting, by contrast, produces something immediate and visible — a ceramic bowl that holds water, a wooden stool that bears weight. The meditative rhythm of repetitive handwork also appears to calm the nervous system, offering what researchers describe as 'flow states' that modern digital environments actively disrupt and diminish.",
+      "Yet the relationship between mass production and artisanal craft is more nuanced than a simple opposition. Critics point out that the very tools used to promote craft culture — Instagram feeds, online marketplaces, YouTube tutorials — are products of the industrial and digital systems that handmade goods ostensibly resist. Moreover, the high price of artisanal products raises questions of accessibility: a hand-thrown mug costing forty dollars is a luxury few can justify. This juxtaposition reveals a paradox at the heart of the movement — that the revival of craft depends, in many ways, on the very technologies it seeks to transcend."
+    ],
+    "key_vocabulary": [
+      {
+        "word": "resurgence",
+        "meaning": "a return or revival of something after a period of decline or obscurity",
+        "example_sentence": "The resurgence of interest in vinyl records surprised music industry analysts."
+      },
+      {
+        "word": "artisanal",
+        "meaning": "relating to products made by hand using traditional methods, usually in small quantities",
+        "example_sentence": "Artisanal bakeries have become increasingly popular in urban neighborhoods."
+      },
+      {
+        "word": "tangible",
+        "meaning": "capable of being touched or felt; having real, physical substance",
+        "example_sentence": "Employees value tangible rewards such as bonuses over vague promises of future promotions."
+      },
+      {
+        "word": "meditative",
+        "meaning": "involving deep, calm, and focused thought; relating to meditation",
+        "example_sentence": "The repetitive motions of knitting have a meditative quality that many find soothing."
+      },
+      {
+        "word": "juxtaposition",
+        "meaning": "the act of placing things side by side, especially for comparison or contrast",
+        "example_sentence": "The exhibition explored the juxtaposition of ancient artifacts and modern digital art."
+      }
+    ],
+    "comprehension_questions": [
+      {
+        "question": "What evidence does the article provide to suggest that handmade crafts are growing in popularity among younger generations?",
+        "answer": "Studios dedicated to pottery, woodworking, and textile-making are reporting waiting lists that stretch for months, and millennials and Gen Z practitioners are increasingly drawn to the process of making things by hand."
+      },
+      {
+        "question": "According to psychologists, why does craftsmanship appeal to people who work with digital products?",
+        "answer": "Psychologists suggest that crafting satisfies a deeper human need for tangible outcomes. Unlike digital work that exists only on a screen, crafting produces something immediate and visible, which counters the quiet sense of futility that abstract work can foster."
+      },
+      {
+        "question": "How does the rhythm of handwork affect the maker, according to researchers?",
+        "answer": "The meditative rhythm of repetitive handwork appears to calm the nervous system and offers 'flow states' that modern digital environments actively disrupt and diminish."
+      },
+      {
+        "question": "What paradox does the author identify at the heart of the craft revival movement?",
+        "answer": "The author notes that the tools used to promote craft culture — such as Instagram, online marketplaces, and YouTube — are products of the very digital systems that handmade goods resist. The revival of craft depends, in many ways, on the technologies it seeks to transcend."
+      }
+    ]
+  },
+
+  "listening": {
+    "audio_url": "",
+    "transcript": "Today we explore how handmade craft is reshaping local economies. In towns once dominated by factory production, a new generation of artisans is reopening workshops and revitalizing main streets. Consider the town of Hebden Bridge in northern England, where former textile mills now house independent ceramicists, leather workers, and wood carvers. These makers do more than produce objects; they cultivate community. Unlike factory goods, which are often designed in one country, manufactured in another, and sold in a third, handmade items carry the imprint of their maker — a thumbprint in the glaze, a slight asymmetry in the joinery. This authenticity resonates with consumers fatigued by the anonymity of mass production. Economists note that craft economies tend to keep money circulating locally, as artisans source materials from nearby suppliers and sell directly to customers. Yet challenges persist. Affordable studio space remains scarce, and many craftspeople supplement their income through teaching or online sales, blurring the line between pure craft and digital entrepreneurship.",
+    "gap_fill_exercise": [
+      {
+        "sentence_with_blanks": "In towns once dominated by factory production, a new generation of artisans is reopening workshops and ______ main streets.",
+        "answers_array": ["revitalizing"]
+      },
+      {
+        "sentence_with_blanks": "These makers do more than produce objects; they ______ community.",
+        "answers_array": ["cultivate"]
+      },
+      {
+        "sentence_with_blanks": "Handmade items carry the ______ of their maker — a thumbprint in the glaze.",
+        "answers_array": ["imprint"]
+      },
+      {
+        "sentence_with_blanks": "This authenticity resonates with consumers ______ by the anonymity of mass production.",
+        "answers_array": ["fatigued"]
+      },
+      {
+        "sentence_with_blanks": "Economists note that craft economies tend to keep money ______ locally.",
+        "answers_array": ["circulating"]
+      },
+      {
+        "sentence_with_blanks": "Affordable studio space remains ______.",
+        "answers_array": ["scarce"]
+      },
+      {
+        "sentence_with_blanks": "Many craftspeople ______ their income through teaching or online sales.",
+        "answers_array": ["supplement"]
+      }
+    ],
+    "dictation_sentences": [
+      "Today we explore how handmade craft is reshaping local economies.",
+      "In towns once dominated by factory production, a new generation of artisans is reopening workshops and revitalizing main streets.",
+      "Consider the town of Hebden Bridge in northern England, where former textile mills now house independent ceramicists, leather workers, and wood carvers.",
+      "These makers do more than produce objects; they cultivate community.",
+      "Unlike factory goods, which are often designed in one country, manufactured in another, and sold in a third, handmade items carry the imprint of their maker — a thumbprint in the glaze, a slight asymmetry in the joinery.",
+      "This authenticity resonates with consumers fatigued by the anonymity of mass production.",
+      "Economists note that craft economies tend to keep money circulating locally, as artisans source materials from nearby suppliers and sell directly to customers.",
+      "Affordable studio space remains scarce, and many craftspeople supplement their income through teaching or online sales, blurring the line between pure craft and digital entrepreneurship."
+    ]
+  },
+
+  "speaking": {
+    "passage_for_shadowing": "In a world of endless scrolling, / making things by hand feels revolutionary. / Clay takes shape between your fingers. / Wood reveals its grain to patient hands. / Each imperfection tells a story. / Mass production promises sameness; / craft celebrates uniqueness. / To make is to resist. / To make is to remember who we are.",
+    "dialogue_template": [
+      {
+        "speaker": "Maya",
+        "line": "I signed up for a pottery class last weekend, and I was honestly terrible at it — but I loved every minute."
+      },
+      {
+        "speaker": "Leo",
+        "line": "That's exactly it, isn't it? We're so used to being good at things instantly that being a complete beginner feels almost liberating."
+      },
+      {
+        "speaker": "Maya",
+        "line": "Right. There's something humbling about watching a lump of clay refuse to cooperate. It reminded me how little I actually use my hands these days."
+      },
+      {
+        "speaker": "Leo",
+        "line": "I think that's the real draw. We spend all day typing and swiping, and crafting forces you to slow down and actually feel the material."
+      },
+      {
+        "speaker": "Maya",
+        "line": "Exactly. The bowl I made is wonky and uneven, but it's mine. I'd take it over a factory-perfect one any day."
+      }
+    ],
+    "speaking_challenge": "Record yourself answering this question in 60 seconds: 'Do you think the handmade craft movement is a genuine cultural shift, or just a passing trend among urban professionals? Use at least two vocabulary words from today's Reading section in your answer.'"
+  },
+
+  "writing": {
+    "showcase_sentences": [
+      {
+        "sentence": "Seldom has a cultural movement drawn such diverse participants, from software engineers to retired farmers.",
+        "structure_explanation": "Negative adverbial inversion: when 'Seldom' begins a sentence, the subject and auxiliary verb are inverted (has a movement → a movement has), emphasizing how unusual the situation is.",
+        "usage_notes": "Use this structure in essays or articles to stress how rare or remarkable something is. Common in formal, journalistic, and academic writing."
+      },
+      {
+        "sentence": "Only when we step away from screens do we rediscover the satisfaction of creating with our hands.",
+        "structure_explanation": "Inversion with 'Only when': 'Only when + clause + auxiliary + subject + verb' places emphasis on the condition that must be met before the realization occurs.",
+        "usage_notes": "Effective in reflective and analytical writing. The inversion creates a dramatic pause that highlights the contrast between digital and physical experience."
+      },
+      {
+        "sentence": "Were it not for the affordability of mass-produced goods, the appeal of handmade craft might never have grown so strong.",
+        "structure_explanation": "Inverted conditional: 'Were it not for X' replaces 'If it were not for X' for a more formal, literary tone.",
+        "usage_notes": "Use in argumentative writing to acknowledge counterarguments or hypothetical conditions. Common in opinion pieces and academic essays."
+      }
+    ],
+    "translation_exercise": [
+      {
+        "chinese_sentence": "在数字时代，手工艺的复兴不仅仅是一种怀旧，更是对匿名性生产的有意识反抗。",
+        "reference_english": "In the digital age, the resurgence of handmade craft is not merely nostalgia, but a deliberate rebellion against anonymous production."
+      },
+      {
+        "chinese_sentence": "心理学家认为，亲手制作物品能满足人类对切实成果的深层需求。",
+        "reference_english": "Psychologists argue that making things by hand satisfies a deep human need for tangible outcomes."
+      },
+      {
+        "chinese_sentence": "手工艺品的高昂价格引发了关于可获得性和特权的质疑。",
+        "reference_english": "The high cost of artisanal goods raises questions about accessibility and privilege."
+      },
+      {
+        "chinese_sentence": "尽管面临挑战，手工艺经济仍有助于资金在当地社区内循环。",
+        "reference_english": "Despite challenges, craft economies help keep money circulating within local communities."
+      }
+    ],
+    "free_writing_prompt": "Write a 150-to-200-word paragraph responding to the following statement: 'The handmade craft revival is less about the objects themselves and more about the meaning people attach to the act of making.' Do you agree or disagree? Support your argument with specific reasons and, where possible, examples from your own experience or observation."
+  },
+
+  "vocabulary": {
+    "word_list": [
+      {
+        "word": "resurgence",
+        "part_of_speech": "noun",
+        "definition": "a return or revival of something after a period of decline or obscurity",
+        "example": "The resurgence of interest in vinyl records surprised music industry analysts.",
+        "collocations": ["cultural resurgence", "resurgence of interest", "economic resurgence", "witness a resurgence"]
+      },
+      {
+        "word": "artisanal",
+        "part_of_speech": "adjective",
+        "definition": "relating to products made by hand using traditional methods, usually in small quantities",
+        "example": "Artisanal bakeries have become increasingly popular in urban neighborhoods.",
+        "collocations": ["artisanal goods", "artisanal craft", "artisanal products", "artisanal methods"]
+      },
+      {
+        "word": "tangible",
+        "part_of_speech": "adjective",
+        "definition": "capable of being touched or felt; having real, physical substance",
+        "example": "Employees value tangible rewards such as bonuses over vague promises of future promotions.",
+        "collocations": ["tangible benefits", "tangible results", "tangible outcomes", "tangible evidence"]
+      },
+      {
+        "word": "meditative",
+        "part_of_speech": "adjective",
+        "definition": "involving deep, calm, and focused thought; relating to meditation",
+        "example": "The repetitive motions of knitting have a meditative quality that many find soothing.",
+        "collocations": ["meditative state", "meditative quality", "meditative practice", "meditative rhythm"]
+      },
+      {
+        "word": "juxtaposition",
+        "part_of_speech": "noun",
+        "definition": "the act of placing things side by side, especially for comparison or contrast",
+        "example": "The exhibition explored the juxtaposition of ancient artifacts and modern digital art.",
+        "collocations": ["striking juxtaposition", "juxtaposition of", "create a juxtaposition", "juxtaposition between"]
+      },
+      {
+        "word": "authenticity",
+        "part_of_speech": "noun",
+        "definition": "the quality of being genuine, real, and true to its origins",
+        "example": "Consumers increasingly demand authenticity in the brands they choose to support.",
+        "collocations": ["cultural authenticity", "sense of authenticity", "value authenticity", "claim authenticity"]
+      },
+      {
+        "word": "entrepreneurship",
+        "part_of_speech": "noun",
+        "definition": "the activity of starting and running a business, often involving innovation and risk",
+        "example": "Government programs have encouraged entrepreneurship among young graduates.",
+        "collocations": ["digital entrepreneurship", "social entrepreneurship", "encourage entrepreneurship", "entrepreneurship program"]
+      }
+    ],
+    "root_affix_notes": "The prefix 're-' means 'again' or 'back' — 'resurgence' combines 're-' (again) with 'sub-' (under) + 'surgere' (to rise), literally 'to rise again.' The word 'tangible' shares the Latin root 'tangere' (to touch) with 'tactile,' 'contact,' and 'intact.' 'Authenticity' derives from Greek 'authentikos' (principal, genuine), related to 'authentic' and 'author.' The suffix '-ship' in 'entrepreneurship' denotes a skill, status, or office, as seen in 'leadership,' 'citizenship,' and 'craftsmanship.' Recognizing these roots and affixes helps you infer the meanings of unfamiliar academic and professional vocabulary.",
+    "anki_csv_filename": "vocab_culture_creativity_20260804.csv"
+  }
+}

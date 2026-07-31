@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "date": "2026-08-05",
+    "topic_theme": "Business & Economy: The Four-Day Workweek Experiment",
+    "word_count_estimate": 2100,
+    "estimated_completion_minutes": 50
+  },
+
+  "reading": {
+    "title": "The Four-Day Workweek Experiment: What the Data Shows",
+    "source_url": "https://www.economist.com/business/2026/aug/four-day-workweek-trial-results",
+    "difficulty_level": "B2-C1",
+    "content_paragraphs": [
+      "The four-day workweek has moved from a fringe proposal to a mainstream policy debate, fueled by landmark trials in Iceland and the United Kingdom. Iceland's pioneering experiment, conducted between 2015 and 2019, involved over 2,500 workers who transitioned to a 35-to-36-hour week with no reduction in pay. The results were striking: productivity remained steady or improved at most workplaces, while employee well-being surged dramatically. Participants reported lower stress levels, reduced burnout, and better work-life balance. Following this success, the UK's six-month trial in 2022, involving 61 companies and nearly 3,000 workers, replicated similar outcomes — 92 percent of participating firms decided to continue the shorter schedule after the trial concluded.",
+      "From an employer perspective, the transition has not been without challenges. Companies have had to restructure workflows, renegotiate deadlines, and invest in technology to compensate for fewer working hours. Yet the data suggests that these adaptations often yield unexpected benefits: more focused meetings, streamlined processes, and a decline in presenteeism — the practice of showing up to work while unwell or disengaged. Economists caution, however, that the long-term economic implications remain uncertain. While reduced hours could stimulate job creation by distributing work more broadly, critics argue that certain sectors, particularly manufacturing and healthcare, may face insurmountable constraints in compressing operations into fewer days without sacrificing service quality or profitability.",
+      "For employees, the appeal of a four-day week extends far beyond having an extra day off. Many trial participants describe a profound shift in how they value their time, with some using the additional day for childcare, further education, or side projects that eventually become viable entrepreneurial ventures. The psychological impact is equally significant: workers report feeling more valued by their employers, which in turn boosts morale and loyalty. Skeptics contend that such enthusiasm might dissipate once the novelty wears off, pointing to the difficulty of sustaining productivity gains over years rather than months. Nevertheless, as more governments and multinational corporations contemplate pilot programs, the four-day workweek is no longer a utopian vision but a tangible policy option whose economic consequences will continue to unfold in the coming decade."
+    ],
+    "key_vocabulary": [
+      {
+        "word": "pioneering",
+        "meaning": "involving new ideas or methods; being the first to do something",
+        "example_sentence": "Iceland's pioneering four-day workweek trial inspired similar experiments worldwide."
+      },
+      {
+        "word": "surge",
+        "meaning": "to increase suddenly and significantly",
+        "example_sentence": "Employee well-being surged dramatically after the transition to a shorter workweek."
+      },
+      {
+        "word": "presenteeism",
+        "meaning": "the practice of coming to work despite being ill or unproductive",
+        "example_sentence": "The trial recorded a notable decline in presenteeism as workers took better care of their health."
+      },
+      {
+        "word": "insurmountable",
+        "meaning": "too difficult or great to be overcome",
+        "example_sentence": "Critics argue that healthcare workers face insurmountable constraints in reducing hours."
+      },
+      {
+        "word": "dissipate",
+        "meaning": "to gradually disappear or become less strong",
+        "example_sentence": "Skeptics wonder whether the initial enthusiasm will dissipate once the novelty wears off."
+      }
+    ],
+    "comprehension_questions": [
+      {
+        "question": "What were the key findings of Iceland's four-day workweek trial conducted between 2015 and 2019?",
+        "answer": "Productivity remained steady or improved at most workplaces, while employee well-being surged dramatically, with participants reporting lower stress, reduced burnout, and better work-life balance."
+      },
+      {
+        "question": "According to the article, what unexpected benefits have employers observed after transitioning to a four-day week?",
+        "answer": "Employers have observed more focused meetings, streamlined processes, and a decline in presenteeism as unexpected benefits of the shorter workweek."
+      },
+      {
+        "question": "Why do critics argue that the four-day workweek may not work for all sectors?",
+        "answer": "Critics argue that sectors like manufacturing and healthcare may face insurmountable constraints in compressing operations into fewer days without sacrificing service quality or profitability."
+      },
+      {
+        "question": "What are some ways that employees have used their additional day off, according to the article?",
+        "answer": "Employees have used the extra day for childcare, further education, or side projects that sometimes develop into entrepreneurial ventures."
+      }
+    ]
+  },
+
+  "listening": {
+    "audio_url": "",
+    "transcript": "In 2023, a Japanese technology firm called Trusty became one of the first major companies in Asia to adopt a permanent four-day workweek. The firm, which specializes in cloud infrastructure and cybersecurity solutions, made the switch after years of escalating concerns about employee burnout and high turnover rates. Under the new policy, all 420 employees work Monday through Thursday with full pay. The company invested heavily in automation tools and training to help teams accomplish in four days what previously took five. Six months into the transition, Trusty reported remarkable results: revenue grew by 13 percent, voluntary turnover dropped by nearly half, and recruitment applications surged by 150 percent. The CEO noted that the most surprising outcome was not the productivity boost itself, but the caliber of candidates the policy attracted. Young professionals, in particular, cited work-life balance as their top priority when evaluating job offers. However, the experiment also revealed pitfalls. Some client-facing teams struggled to coordinate with partners who still operated on a five-day schedule, and a small number of employees reported feeling pressured to cram five days of work into four. The company has since introduced flexible arrangements to address these concerns, allowing teams to choose which day off works best for their clients and personal circumstances.",
+    "gap_fill_exercise": [
+      {
+        "sentence_with_blanks": "Trusty became one of the first major companies in Asia to ______ a permanent four-day workweek.",
+        "answers_array": ["adopt"]
+      },
+      {
+        "sentence_with_blanks": "The firm made the switch after years of escalating concerns about employee burnout and high ______ rates.",
+        "answers_array": ["turnover"]
+      },
+      {
+        "sentence_with_blanks": "The company invested heavily in automation tools and training to help teams ______ in four days what previously took five.",
+        "answers_array": ["accomplish"]
+      },
+      {
+        "sentence_with_blanks": "Voluntary turnover ______ by nearly half after the transition.",
+        "answers_array": ["dropped"]
+      },
+      {
+        "sentence_with_blanks": "The most surprising outcome was the ______ of candidates the policy attracted.",
+        "answers_array": ["caliber"]
+      },
+      {
+        "sentence_with_blanks": "Some client-facing teams struggled to ______ with partners who still operated on a five-day schedule.",
+        "answers_array": ["coordinate"]
+      },
+      {
+        "sentence_with_blanks": "A small number of employees reported feeling pressured to ______ five days of work into four.",
+        "answers_array": ["cram"]
+      }
+    ],
+    "dictation_sentences": [
+      "Trusty became one of the first major companies in Asia to adopt a permanent four-day workweek.",
+      "The firm specializes in cloud infrastructure and cybersecurity solutions.",
+      "The company invested heavily in automation tools and training to help teams accomplish in four days what previously took five.",
+      "Six months into the transition, Trusty reported remarkable results.",
+      "The CEO noted that the most surprising outcome was the caliber of candidates the policy attracted.",
+      "Young professionals cited work-life balance as their top priority when evaluating job offers.",
+      "Some client-facing teams struggled to coordinate with partners who still operated on a five-day schedule.",
+      "The company has since introduced flexible arrangements to address these concerns."
+    ]
+  },
+
+  "speaking": {
+    "passage_for_shadowing": "The four-day workweek is gaining momentum. / Trials show productivity holds steady. / Employees report less burnout. / Companies attract better talent. / But challenges remain. / Client coordination can be tricky. / Not all sectors can adapt easily. / The debate continues to evolve. / Change is never simple.",
+    "dialogue_template": [
+      {
+        "speaker": "Sarah",
+        "line": "I just read that a tech company in Japan switched to a four-day week and their revenue actually went up. Hard to believe, right?"
+      },
+      {
+        "speaker": "David",
+        "line": "It is surprising, but I think it makes sense. When people have more time to recharge, they're more focused during the hours they do work. It's about quality, not quantity."
+      },
+      {
+        "speaker": "Sarah",
+        "line": "But what about industries like healthcare or manufacturing? You can't just compress hospital shifts or factory lines into fewer days without causing problems."
+      },
+      {
+        "speaker": "David",
+        "line": "That's a fair point. The four-day model probably works best for knowledge-based jobs. It's not a one-size-fits-all solution. But even in those sectors, there might be creative ways to reduce hours — like job sharing or staggered schedules."
+      },
+      {
+        "speaker": "Sarah",
+        "line": "I guess we'll see more experiments in the next few years. Either way, it's refreshing to see companies questioning the five-day norm instead of just accepting it."
+      }
+    ],
+    "speaking_challenge": "Record yourself answering this question in 60 seconds: 'Would a four-day workweek be feasible in your industry or field of study? Explain why or why not, using at least two vocabulary words from today's lesson.'"
+  },
+
+  "writing": {
+    "showcase_sentences": [
+      {
+        "sentence": "Not since the industrial revolution established the five-day week has there been such widespread interest in reshaping the structure of work.",
+        "structure_explanation": "Negative adverbial inversion with 'Not since': 'Not since + time phrase + auxiliary + subject + verb' places strong emphasis on the historical uniqueness of the current moment.",
+        "usage_notes": "Use in essays and opinion pieces to frame a topic as historically significant. The structure adds rhetorical weight to claims about unprecedented change. Common in academic and journalistic writing."
+      },
+      {
+        "sentence": "What makes the four-day workweek compelling is not just the productivity data, but the broader shift in values it represents.",
+        "structure_explanation": "'What makes X compelling is Y' — a pseudo-cleft sentence that front-loads the topic (X) and then delivers the key insight (Y), creating emphasis through delayed meaning.",
+        "usage_notes": "Effective in thesis statements and topic sentences. The structure allows you to acknowledge a common point before introducing a deeper or more important one."
+      },
+      {
+        "sentence": "Were the four-day workweek to become standard practice, the ripple effects on urban planning, consumer spending, and family dynamics would be profound.",
+        "structure_explanation": "Inverted second conditional: 'Were + subject + to-infinitive' replaces 'If + subject + were to + verb' for a more formal, academic tone.",
+        "usage_notes": "Use when discussing hypothetical scenarios and their potential consequences. Common in analytical writing, economic forecasts, and policy discussions."
+      }
+    ],
+    "translation_exercise": [
+      {
+        "chinese_sentence": "冰岛的四天工作制试验表明，缩短工时后生产力保持稳定，员工幸福感大幅提升。",
+        "reference_english": "Iceland's four-day workweek trial showed that productivity remained steady and employee well-being surged after working hours were reduced."
+      },
+      {
+        "chinese_sentence": "批评者认为，医疗和制造业等行业在不牺牲服务质量的前提下缩短工时面临着难以克服的困难。",
+        "reference_english": "Critics argue that sectors such as healthcare and manufacturing face insurmountable difficulties in reducing hours without sacrificing service quality."
+      },
+      {
+        "chinese_sentence": "公司在自动化工具和员工培训上投入巨资，以帮助团队在四天内完成以前需要五天的工作量。",
+        "reference_english": "The company invested heavily in automation tools and employee training to help teams accomplish in four days what previously took five."
+      },
+      {
+        "chinese_sentence": "怀疑论者想知道，一旦新鲜感消退，最初的热情是否会逐渐消散。",
+        "reference_english": "Skeptics wonder whether the initial enthusiasm will dissipate once the novelty wears off."
+      }
+    ],
+    "free_writing_prompt": "Write a 150-to-200-word argumentative paragraph responding to the following statement: 'Governments should mandate a four-day workweek to improve public well-being and stimulate economic innovation.' Do you agree or disagree? Support your position with specific reasons and reference at least one piece of evidence from the reading or listening content."
+  },
+
+  "vocabulary": {
+    "word_list": [
+      {
+        "word": "pioneering",
+        "part_of_speech": "adjective",
+        "definition": "involving new ideas or methods; being the first to develop or do something",
+        "example": "Iceland's pioneering experiment with the four-day workweek inspired similar trials across Europe.",
+        "collocations": ["pioneering work", "pioneering research", "pioneering spirit", "pioneering study"]
+      },
+      {
+        "word": "surge",
+        "part_of_speech": "verb",
+        "definition": "to increase suddenly and significantly in amount, value, or strength",
+        "example": "Recruitment applications surged by 150 percent after the company introduced the four-day policy.",
+        "collocations": ["surge in", "surge dramatically", "sales surge", "demand surge"]
+      },
+      {
+        "word": "presenteeism",
+        "part_of_speech": "noun",
+        "definition": "the practice of coming to work despite being ill or unproductive, resulting in reduced output",
+        "example": "The shorter workweek led to a notable decline in presenteeism as workers had more time to recover.",
+        "collocations": ["reduce presenteeism", "decline in presenteeism", "problem of presenteeism", "cost of presenteeism"]
+      },
+      {
+        "word": "insurmountable",
+        "part_of_speech": "adjective",
+        "definition": "too difficult or great to be dealt with or overcome",
+        "example": "Manufacturing firms may face insurmountable constraints when trying to compress operations into fewer days.",
+        "collocations": ["insurmountable challenge", "insurmountable obstacle", "seem insurmountable", "insurmountable problem"]
+      },
+      {
+        "word": "dissipate",
+        "part_of_speech": "verb",
+        "definition": "to gradually disappear or become less strong or intense",
+        "example": "Skeptics argue that the initial excitement around the four-day week will eventually dissipate.",
+        "collocations": ["gradually dissipate", "slowly dissipate", "tension dissipate", "doubts dissipate"]
+      },
+      {
+        "word": "turnover",
+        "part_of_speech": "noun",
+        "definition": "the rate at which employees leave a company and are replaced by new ones",
+        "example": "After adopting the four-day week, the company saw voluntary turnover drop by nearly half.",
+        "collocations": ["high turnover", "low turnover", "staff turnover", "employee turnover"]
+      },
+      {
+        "word": "caliber",
+        "part_of_speech": "noun",
+        "definition": "the quality or level of ability of a person or thing",
+        "example": "The CEO was surprised by the high caliber of candidates the four-day policy attracted.",
+        "collocations": ["high caliber", "caliber of candidates", "caliber of work", "top caliber"]
+      }
+    ],
+    "root_affix_notes": "The word 'pioneering' combines 'pioneer' + '-ing' suffix, where 'pioneer' derives from Old French 'paonier' (foot soldier). 'Insurmountable' is built from 'in-' (not) + 'surmount' (to overcome) + '-able' (capable of), meaning 'not capable of being overcome.' 'Dissipate' comes from Latin 'dissipare' meaning 'to scatter,' from 'dis-' (apart) + 'supare' (to throw). 'Caliber' entered English from French 'calibre,' originally referring to the diameter of a gun barrel, then extended metaphorically to mean 'quality or capacity.'",
+    "anki_csv_filename": "vocab_business_economy_20260805.csv"
+  }
+}

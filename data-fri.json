@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "date": "2026-07-31",
+    "topic_theme": "The Slow Living Movement: Finding Balance in a Fast-Paced World",
+    "word_count_estimate": 1900,
+    "estimated_completion_minutes": 45
+  },
+
+  "reading": {
+    "title": "Why More People Are Choosing to Live Slowly",
+    "source_url": "https://www.theguardian.com/lifeandstyle/2026/jul/slow-living-movement",
+    "difficulty_level": "B2",
+    "content_paragraphs": [
+      "In recent years, a growing number of urban professionals have begun to question the cult of productivity that dominates modern life. The slow living movement, which encourages people to step back from the relentless pace of contemporary society, has gained significant traction across Europe and East Asia. Rather than glorifying busyness, advocates argue that a deliberate, mindful approach to daily activities leads to greater satisfaction and well-being.",
+      "The roots of this philosophy can be traced back to the Slow Food movement, founded in Italy in the 1980s as a protest against fast-food culture. Over time, the concept has expanded far beyond the dining table. Today, slow living encompasses everything from slow travel and slow fashion to slow parenting and slow work. The underlying principle is the same: quality over quantity, presence over efficiency, and connection over consumption.",
+      "Critics, however, contend that slow living is a luxury available only to those with financial security and flexible schedules. For many workers juggling multiple jobs or struggling to make ends meet, the idea of 'slowing down' may feel tone-deaf. Supporters acknowledge this critique but counter that the movement is not about idleness — it is about intention. Even small changes, such as putting away devices during meals or taking a walk without a destination, can cultivate a sense of agency in an otherwise overwhelming world."
+    ],
+    "key_vocabulary": [
+      {
+        "word": "relentless",
+        "meaning": "continuing in a severe or extreme way without stopping",
+        "example_sentence": "The relentless pace of city life leaves little room for reflection."
+      },
+      {
+        "word": "deliberate",
+        "meaning": "done on purpose; intentional rather than accidental",
+        "example_sentence": "She made a deliberate effort to spend less time on social media."
+      },
+      {
+        "word": "traction",
+        "meaning": "the power to gain support or acceptance; popularity",
+        "example_sentence": "The minimalist lifestyle gained traction among young professionals seeking simplicity."
+      },
+      {
+        "word": "encompass",
+        "meaning": "to include a wide range of things; to surround or cover",
+        "example_sentence": "The new policy encompasses environmental protection, fair trade, and community welfare."
+      },
+      {
+        "word": "tone-deaf",
+        "meaning": "showing insensitivity or lack of awareness about others' situations",
+        "example_sentence": "His suggestion that everyone should take a month off felt tone-deaf to workers living paycheck to paycheck."
+      }
+    ],
+    "comprehension_questions": [
+      {
+        "question": "Where did the Slow Food movement originate, and what was it initially protesting?",
+        "answer": "The Slow Food movement originated in Italy in the 1980s as a protest against fast-food culture."
+      },
+      {
+        "question": "What is the underlying principle of slow living, according to the article?",
+        "answer": "The underlying principle is quality over quantity, presence over efficiency, and connection over consumption."
+      },
+      {
+        "question": "What criticism do opponents raise about the slow living movement?",
+        "answer": "Critics argue that slow living is a luxury available only to those with financial security and flexible schedules, and may feel tone-deaf to workers struggling to make ends meet."
+      },
+      {
+        "question": "How do supporters respond to the criticism that slow living is only for the privileged?",
+        "answer": "Supporters counter that the movement is about intention, not idleness, and that even small changes like putting away devices during meals can cultivate a sense of agency."
+      }
+    ]
+  },
+
+  "listening": {
+    "audio_url": "",
+    "transcript": "Welcome to today's listening practice. The slow living movement is not about doing everything at a snail's pace. Rather, it is about doing things at the right pace — the pace that allows you to be fully present. In our hyperconnected world, we are constantly bombarded with notifications, messages, and updates. This perpetual stream of information fragments our attention and diminishes our ability to engage deeply with any single task. Proponents of slow living suggest starting small. You might begin by designating one evening a week as screen-free, or by preparing a meal from scratch instead of ordering takeout. The goal is not perfection but awareness. When we slow down, we notice things we would otherwise miss — the taste of our food, the texture of a book, the sound of rain against the window. These small moments of presence are what the slow living movement is really about.",
+    "gap_fill_exercise": [
+      {
+        "sentence_with_blanks": "The slow living movement is not about doing everything at a snail's ______.",
+        "answers_array": ["pace"]
+      },
+      {
+        "sentence_with_blanks": "In our hyperconnected world, we are constantly ______ with notifications, messages, and updates.",
+        "answers_array": ["bombarded"]
+      },
+      {
+        "sentence_with_blanks": "This perpetual stream of information ______ our attention and diminishes our ability to engage deeply.",
+        "answers_array": ["fragments"]
+      },
+      {
+        "sentence_with_blanks": "Proponents of slow living suggest starting ______.",
+        "answers_array": ["small"]
+      },
+      {
+        "sentence_with_blanks": "You might begin by ______ one evening a week as screen-free.",
+        "answers_array": ["designating"]
+      },
+      {
+        "sentence_with_blanks": "When we slow down, we notice things we would otherwise ______.",
+        "answers_array": ["miss"]
+      },
+      {
+        "sentence_with_blanks": "These small moments of ______ are what the slow living movement is really about.",
+        "answers_array": ["presence"]
+      }
+    ],
+    "dictation_sentences": [
+      "The slow living movement is not about doing everything at a snail's pace.",
+      "It is about doing things at the right pace — the pace that allows you to be fully present.",
+      "In our hyperconnected world, we are constantly bombarded with notifications, messages, and updates.",
+      "This perpetual stream of information fragments our attention and diminishes our ability to engage deeply with any single task.",
+      "Proponents of slow living suggest starting small.",
+      "You might begin by designating one evening a week as screen-free, or by preparing a meal from scratch instead of ordering takeout.",
+      "The goal is not perfection but awareness.",
+      "These small moments of presence are what the slow living movement is really about."
+    ]
+  },
+
+  "speaking": {
+    "passage_for_shadowing": "Slow living is not about doing less. / It is about doing things deliberately. / When we rush through our days, / we lose touch with what matters. / Put down the phone. / Taste your food. / Listen to the rain. / Presence is the ultimate luxury.",
+    "dialogue_template": [
+      {
+        "speaker": "Alice",
+        "line": "I tried a screen-free evening last night, and honestly, it was harder than I expected."
+      },
+      {
+        "speaker": "Ben",
+        "line": "What did you do instead? I think that's the part people underestimate — you need a replacement activity."
+      },
+      {
+        "speaker": "Alice",
+        "line": "I ended up cooking a proper meal and reading a novel. It felt almost rebellious, like I was breaking some unwritten rule."
+      },
+      {
+        "speaker": "Ben",
+        "line": "That's the irony, isn't it? Taking time to be present now feels like a radical act. We've normalized being constantly distracted."
+      },
+      {
+        "speaker": "Alice",
+        "line": "Exactly. But I slept better than I have in weeks, so I'm going to try making it a weekly habit."
+      }
+    ],
+    "speaking_challenge": "Record yourself answering this question in 60 seconds: 'Do you think the slow living movement is accessible to everyone, or is it a luxury reserved for the privileged? Use at least two vocabulary words from today's Reading section in your answer.'"
+  },
+
+  "writing": {
+    "showcase_sentences": [
+      {
+        "sentence": "Rarely has a lifestyle trend resonated so deeply with so many people across different cultures.",
+        "structure_explanation": "Negative adverbial inversion: when 'Rarely' begins a sentence, the subject and auxiliary verb are inverted (has a trend → a trend has).",
+        "usage_notes": "Use this structure in essays or articles to emphasize how uncommon or remarkable something is. Common in formal and journalistic writing."
+      },
+      {
+        "sentence": "Not until we disconnect from our devices do we realize how fragmented our attention has become.",
+        "structure_explanation": "Inversion with 'Not until': 'Not until + clause + auxiliary + subject + verb' places emphasis on the condition that triggers the realization.",
+        "usage_notes": "Effective in reflective and analytical writing. The inversion creates a dramatic pause that highlights the contrast."
+      },
+      {
+        "sentence": "Were it not for the financial security afforded by her full-time job, she would not have the luxury of embracing slow living.",
+        "structure_explanation": "Inverted conditional: 'Were it not for X' replaces 'If it were not for X' for a more formal, literary tone.",
+        "usage_notes": "Use in argumentative writing to acknowledge counterarguments or hypothetical conditions. Common in opinion pieces and academic essays."
+      }
+    ],
+    "translation_exercise": [
+      {
+        "chinese_sentence": "慢生活并不是要你什么都不做，而是让你有意识地对待每一件事。",
+        "reference_english": "Slow living is not about doing nothing; it is about approaching everything with intention."
+      },
+      {
+        "chinese_sentence": "在信息过载的时代，学会放慢脚步已经成为一种稀缺能力。",
+        "reference_english": "In an age of information overload, learning to slow down has become a rare skill."
+      },
+      {
+        "chinese_sentence": "批评者认为，慢生活运动忽略了那些为生计奔波的人的现实困境。",
+        "reference_english": "Critics argue that the slow living movement ignores the practical realities of those who are struggling to make ends meet."
+      },
+      {
+        "chinese_sentence": "即便是最小的改变——比如吃饭时放下手机——也能培养对生活的掌控感。",
+        "reference_english": "Even the smallest change — such as putting away your phone during meals — can cultivate a sense of agency over your life."
+      }
+    ],
+    "free_writing_prompt": "Write a 150-to-200-word paragraph responding to the following statement: 'The slow living movement is an unrealistic ideal that fails to account for the economic pressures most people face.' Do you agree or disagree? Support your argument with specific reasons and, where possible, examples from your own experience or observation."
+  },
+
+  "vocabulary": {
+    "word_list": [
+      {
+        "word": "perpetual",
+        "part_of_speech": "adjective",
+        "definition": "continuing indefinitely; never ending or changing",
+        "example": "The perpetual noise of construction outside made it impossible to concentrate.",
+        "collocations": ["perpetual motion", "perpetual state", "perpetual cycle", "perpetual struggle"]
+      },
+      {
+        "word": "bombard",
+        "part_of_speech": "verb",
+        "definition": "to attack continuously with questions, information, or criticism",
+        "example": "Consumers are bombarded with hundreds of advertisements every single day.",
+        "collocations": ["bombard with", "bombard with questions", "constantly bombard", "bombard with information"]
+      },
+      {
+        "word": "fragment",
+        "part_of_speech": "verb",
+        "definition": "to break or cause to break into small, separate parts",
+        "example": "Multitasking fragments our attention and reduces the quality of our work.",
+        "collocations": ["fragment attention", "fragment into", "highly fragmented", "increasingly fragmented"]
+      },
+      {
+        "word": "designate",
+        "part_of_speech": "verb",
+        "definition": "to appoint or assign something for a specific purpose",
+        "example": "The city designated the old warehouse district as a cultural heritage zone.",
+        "collocations": ["designate as", "designate for", "officially designate", "designate a zone"]
+      },
+      {
+        "word": "presence",
+        "part_of_speech": "noun",
+        "definition": "the state of being fully aware and engaged in the current moment",
+        "example": "Meditation teachers often emphasize that presence is more valuable than productivity.",
+        "collocations": ["sense of presence", "cultivate presence", "full presence", "moment of presence"]
+      },
+      {
+        "word": "rebellious",
+        "part_of_speech": "adjective",
+        "definition": "showing a desire to resist authority, convention, or norms",
+        "example": "Choosing to read a book instead of scrolling through feeds felt almost rebellious.",
+        "collocations": ["feel rebellious", "rebellious spirit", "rebellious act", "rebellious teenager"]
+      },
+      {
+        "word": "agency",
+        "part_of_speech": "noun",
+        "definition": "the capacity to act independently and make one's own free choices",
+        "example": "Volunteering gave her a renewed sense of agency in a life that otherwise felt out of control.",
+        "collocations": ["sense of agency", "exercise agency", "individual agency", "lack of agency"]
+      }
+    ],
+    "root_affix_notes": "The prefix 'per-' means 'through' or 'thoroughly' — 'perpetual' combines 'per-' (through) + 'petere' (to seek), literally 'seeking continuously.' The word 'fragment' shares the Latin root 'frangere' (to break) with 'fracture,' 'fragile,' and 'refraction.' 'Designate' comes from 'de-' (down/away) + 'signare' (to mark), meaning 'to mark out for a purpose.' Understanding these roots helps you decode unfamiliar words in academic texts.",
+    "anki_csv_filename": "vocab_slow_living_20260731.csv"
+  }
+}
