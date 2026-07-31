@@ -208,13 +208,15 @@
       <div class="card"><div class="card-sub">${l.transcript}</div></div>`;
     }
 
-    // Dictation
+    // Dictation — sentences come from the transcript, each with a play button
     if (l.dictation_sentences && l.dictation_sentences.length) {
       html += `<div class="section-title">✍️ 逐句听写</div>`;
+      html += `<div class="card" style="font-size:11px;color:#71717a;padding:8px 14px;">点击 ▶ 逐句播放，尝试写下你听到的内容</div>`;
       l.dictation_sentences.forEach((s, i) => {
         const id = `dict-${i}`;
-        html += `<div class="card dictation-item">
-          <div class="dictation-text">${i+1}. ${s}</div>
+        html += `<div class="card dictation-item" style="display:flex;align-items:center;gap:10px;">
+          <button class="dict-play-btn" data-sentence="${s.replace(/"/g, '&quot;')}" style="flex-shrink:0;width:32px;height:32px;background:#1e1b4b;border:1px solid #312e81;border-radius:50%;color:#a5b4fc;font-size:12px;cursor:pointer;display:flex;align-items:center;justify-content:center;">▶</button>
+          <div class="dictation-text" style="flex:1;">${i+1}. ${s}</div>
         </div>`;
       });
     }
@@ -222,13 +224,11 @@
     section.innerHTML = html;
     content.appendChild(section);
 
-    // Audio player setup
+    // Audio player setup — plays the transcript (main listening material)
     const playBtn = $('play-btn');
     const audioStatus = $('audio-status');
     if (playBtn) {
-      // Try TTS as fallback
       let isPlaying = false;
-      let utterance = null;
 
       playBtn.addEventListener('click', function() {
         if (isPlaying) {
@@ -240,33 +240,44 @@
         }
 
         if (window.speechSynthesis && l.transcript) {
-          // Use TTS as fallback playback
-          const sentences = l.dictation_sentences && l.dictation_sentences.length ? l.dictation_sentences : [l.transcript];
-          let idx = 0;
           isPlaying = true;
           playBtn.textContent = '⏸';
+          audioStatus.textContent = '播放中...';
 
-          function speakNext() {
-            if (idx >= sentences.length || !isPlaying) {
-              isPlaying = false;
-              playBtn.textContent = '▶';
-              audioStatus.textContent = '播放完成 ✓';
-              return;
-            }
-            utterance = new SpeechSynthesisUtterance(sentences[idx]);
-            utterance.lang = 'en-US';
-            utterance.rate = 0.8;
-            utterance.onend = () => { idx++; speakNext(); };
-            utterance.onerror = () => { idx++; speakNext(); };
-            audioStatus.textContent = `播放中 ${idx+1}/${sentences.length}`;
-            window.speechSynthesis.speak(utterance);
-          }
-          speakNext();
+          const utterance = new SpeechSynthesisUtterance(l.transcript);
+          utterance.lang = 'en-US';
+          utterance.rate = 0.85;
+          utterance.onend = () => {
+            isPlaying = false;
+            playBtn.textContent = '▶';
+            audioStatus.textContent = '播放完成 ✓';
+          };
+          utterance.onerror = () => {
+            isPlaying = false;
+            playBtn.textContent = '▶';
+            audioStatus.textContent = '播放出错';
+          };
+          window.speechSynthesis.speak(utterance);
         } else {
           audioStatus.textContent = '当前环境不支持语音合成';
         }
       });
     }
+
+    // Dictation play buttons — each sentence has its own play button
+    section.querySelectorAll('.dict-play-btn').forEach(btn => {
+      btn.addEventListener('click', function() {
+        if (window.speechSynthesis) window.speechSynthesis.cancel();
+        const text = this.dataset.sentence;
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = 'en-US';
+        utterance.rate = 0.75;
+        this.textContent = '🔊';
+        utterance.onend = () => { this.textContent = '▶'; };
+        utterance.onerror = () => { this.textContent = '▶'; };
+        window.speechSynthesis.speak(utterance);
+      });
+    });
   }
 
   function renderSpeaking() {
